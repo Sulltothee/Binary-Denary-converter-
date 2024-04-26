@@ -1,0 +1,14 @@
+C:\Users\rando\Documents\Code Projects\Benary\Benary\bin\Debug\net8.0\Benary.exe
+C:\Users\rando\Documents\Code Projects\Benary\Benary\bin\Debug\net8.0\Benary.deps.json
+C:\Users\rando\Documents\Code Projects\Benary\Benary\bin\Debug\net8.0\Benary.runtimeconfig.json
+C:\Users\rando\Documents\Code Projects\Benary\Benary\bin\Debug\net8.0\Benary.dll
+C:\Users\rando\Documents\Code Projects\Benary\Benary\bin\Debug\net8.0\Benary.pdb
+C:\Users\rando\Documents\Code Projects\Benary\Benary\obj\Debug\net8.0\Benary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rando\Documents\Code Projects\Benary\Benary\obj\Debug\net8.0\Benary.AssemblyInfoInputs.cache
+C:\Users\rando\Documents\Code Projects\Benary\Benary\obj\Debug\net8.0\Benary.AssemblyInfo.cs
+C:\Users\rando\Documents\Code Projects\Benary\Benary\obj\Debug\net8.0\Benary.csproj.CoreCompileInputs.cache
+C:\Users\rando\Documents\Code Projects\Benary\Benary\obj\Debug\net8.0\Benary.dll
+C:\Users\rando\Documents\Code Projects\Benary\Benary\obj\Debug\net8.0\refint\Benary.dll
+C:\Users\rando\Documents\Code Projects\Benary\Benary\obj\Debug\net8.0\Benary.pdb
+C:\Users\rando\Documents\Code Projects\Benary\Benary\obj\Debug\net8.0\Benary.genruntimeconfig.cache
+C:\Users\rando\Documents\Code Projects\Benary\Benary\obj\Debug\net8.0\ref\Benary.dll
